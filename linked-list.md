@@ -10,7 +10,7 @@ Two Types of Linked List:
     - Two/Double references within the node. 
     - References to the *next* and *previous* node.
 
-Other terminology: 
+Other terminology:  
 **Next:** This is a property each node has and has the reference to the next node.  It leads us to the next node and lets us extract data. Guides us to where the next reference is pointing.  
 **Head:** Reference type of type node to the first node in the list.  
 **Current:** Reference type of type node. Is currently looked at. Typically reset current to the head to know you are starting from the beginning of list.  Tells us where we are in the list and lets us move forward until the end. We know we are all the end when the current is null.  
