@@ -6,3 +6,4 @@
 - [Classes & Memory Management](classes-memory.md)
 - [Linked Lists](linked-list.md)
 - [OOP](oop.md)
+- [Interfaces](interfaces.md)

@@ -1,0 +1,4 @@
+## Interfaces
+Interfaces separates how we use something from how its implemented. They let us interact with objects based on what they do. Classes that implement an interface support all the methods defined in the interface and can implement more than one interface. Interfaces should always me implemented by more than one class.
+Interfaces contain definitions for groups of related functionalities that non-abstract classes must implement. If a base class implements an interface, its derived classes also inherits the implementation.
+Interface declarations can contain: Methods, properties, Indexers, and Events
