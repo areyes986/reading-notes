@@ -7,3 +7,5 @@
 - [Linked Lists](linked-list.md)
 - [OOP](oop.md)
 - [Interfaces](interfaces.md)
+- [Collections and Enums](collectionsAndEnums.md)
+- [LINQ & Delegates](linqAndDelegates.md)
