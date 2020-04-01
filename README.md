@@ -12,3 +12,4 @@
 - [Stacks & Queues](stacksAndQueues.md)
 - [MVC](mvc.md)
 - [Relational DataBases](relationalDataBases.md)
+- [Entity Framework Core](entityFrameworkCore.md)
