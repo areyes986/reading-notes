@@ -15,3 +15,4 @@
 - [Entity Framework Core](week3/entityFrameworkCore.md)
 - [DB Seeding and TagHelpers](week3/DBSeedingTagHelpers.md)
 - [Trees](week3/trees.md)
+- [Dependency Injection](week4/dependencyInjection.md)
