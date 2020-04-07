@@ -16,3 +16,4 @@
 - [DB Seeding and TagHelpers](week3/DBSeedingTagHelpers.md)
 - [Trees](week3/trees.md)
 - [Dependency Injection](week4/dependencyInjection.md)
+- [Views and Azure Deployment](viewsAzureDeployment.md)
