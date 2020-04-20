@@ -18,3 +18,4 @@
 - [Dependency Injection](week4/dependencyInjection.md)
 - [Views and Azure Deployment](week4/viewsAzureDeployment.md)
 - [Intro into APIs](week4/api.md)
+- [Identity](week6/identity.md)
