@@ -20,3 +20,4 @@
 - [Intro into APIs](week4/api.md)
 - [Identity](week6/identity.md)
 - [Razor Pages](week6/razorPages.md)
+- [Claims](week6/claims.md)
