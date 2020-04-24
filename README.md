@@ -22,3 +22,4 @@
 - [Razor Pages](week6/razorPages.md)  
 - [Claims](week6/claims.md)
 - [Policies](week6/policies.md)
+- [Hashtables](week6/hashtables.md)
