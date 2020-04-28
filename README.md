@@ -24,3 +24,4 @@
 - [Policies](week6/policies.md)
 - [Hashtables](week6/hashtables.md)  
 - [Components](week7/components.md)
+- [OAuth](week7/oauth.md)
