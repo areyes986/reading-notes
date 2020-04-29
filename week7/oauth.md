@@ -1,25 +1,11 @@
-## OAUTH/SendGrid
+## OAUTH
 
-SendGrid is an email service on Azure. It gives reliable transactional email delivery, scalability, flexible APIs that make integration easy. We use SendGrid to:  
-- send receipts/purchase info to customers
-- sending customers fliers/promotions
-- collects real-time metrics for blocked email/customer engagement
-- forward customer inquiries
-- processing emails
+This allows users to login through different website credentials such as GitHub, LinkedIn, Facebook, etc.
+To start, we would need to register an app with the service provider. We need to specify a name for the app and a redirect URI, the service provider will give a client ID and client secret that is used in authenitcation and token requests.
+- Consumers -> requests to service provider authorization endpoint that authorizes the user
+- Service provider authenticates user and prompts whether to authorize the consumer
+- if the user authorizes, the SP goes back to the redirect URI with a temp access code
+- The consumer calls the token endpoint to exchange the code for a permanent access token.
+- SP grants access that is used to authenticate requests to protected resources
 
-**Creating a SendGrid Account**  
-1. Sign in to Azure Portal -> create a resource
-2. Click "SendGrid"
-3. Sign up -> create
-5. Enter a name to identify the SendGrid service. 
-6. Create Resource group or an existing one
-7. Pricing, pick one, free! 
-6. click Manage -> verify account
-
-**Reference SendGrid Class Library, Install SendGrid NuGet**  
-1. New Project -> Template
-2. Solution Explore -> right click References -> Manage NuGet Packages -> SendGrid -> Install
-
- 
-
-
+[Resource](https://www.jerriepelser.com/blog/authenticate-oauth-aspnet-core-2/)

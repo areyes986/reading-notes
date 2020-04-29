@@ -23,5 +23,6 @@
 - [Claims](week6/claims.md)
 - [Policies](week6/policies.md)
 - [Hashtables](week6/hashtables.md)  
-- [Components](week7/components.md)
-- [OAuth](week7/oauth.md)
+- [Components](week7/components.md)  
+- [SendGrid](week7/signgrid.md)
+- [OAUTH](week7/oauth.md)
