@@ -26,3 +26,4 @@
 - [Components](week7/components.md)  
 - [SendGrid](week7/signgrid.md)
 - [OAUTH](week7/oauth.md)
+- [Auth.Net](week7/authnet.md)
